@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>全球旅居</a>. 合約交易員. 背包客. 數字遊民
 
 profile:
   align: right
@@ -34,4 +34,4 @@ latest_posts:
 
 💻 I enjoy building practical tools to solve everyday problems and have experience developing my own websites. I’m currently working on a new blog and exploring how to share my work and ideas through social media.
 
-🌏 I speak Mandarin and Shanghainese, a variety of Wu Chinese, and I’ve been exploring Cantonese. I’m currently preparing for IELTS and planning to apply for a master’s degree.
+🌏 I speak Mandarin and Shanghainese, and I’ve been exploring Cantonese. I’m currently preparing for IELTS and planning to apply for a master’s degree.
