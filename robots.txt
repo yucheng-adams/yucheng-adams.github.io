@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yucheng-adams.github.io/al-folio/sitemap.xml
+Sitemap: https://yucheng-adams.github.io/yucheng-adams.github.io/sitemap.xml
