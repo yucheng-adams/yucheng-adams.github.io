@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Hello, world. My blog is live! 新的博客开发顺利

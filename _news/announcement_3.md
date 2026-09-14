@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-he day my story began.Born on 2003. :sparkles: :smile:
+The day my story began.Born on 2003. :sparkles: :smile:
